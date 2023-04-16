@@ -21,21 +21,21 @@ Website URL: https://sleuthscape.onrender.com/<br/>
   
   * Clone or download this repository to your local machine.
   
-#### 3. Install Node Modules
+#### 2. Install Node Modules
 * Open your terminal/command prompt from the project directory and install all the modules by executing the following command
 
 ```
 npm install
 ```
 
-#### 4. Open terminal & Run the Game
+#### 3. Open terminal & Run the Game
 * Open your terminal/command prompt from the project directory and run the file `app.js` by executing the following command
 
 ```
 node app.js
 ```
 
-#### 5. Open the browser & search the URL
+#### 4. Open the browser & search the URL
 * Now its done, just Go to your browser and type the following URL in the address bar and you are good to go.
 
 ```
