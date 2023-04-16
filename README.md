@@ -24,8 +24,8 @@ Overall, Sleuthscape is an engaging and challenging online puzzle game that requ
 
 These are the test credentials which can be used to access the game. There one important thing to note is there Unique Code which is only meant to uniquely identify the players.
 
-*Email: sampleemail@gmail.com*
-*Password: samplepassword*
+*Email: sampleemail@gmail.com* | 
+*Password: samplepassword* | 
 *Unique Code: samplecode*
 
 ## Problems & Solutions:
