@@ -1,5 +1,6 @@
 # eLitmus Puzzle Application
 ## Sleuthscape: An online puzzle game
+
 ### Overview:
 Sleuthscape is an online puzzle game that challenges players to solve complex puzzles by piecing together clues and solving riddles. It requires players to use a variety of soft skills in order to succeed in the game.
 
@@ -18,6 +19,14 @@ Sleuthscape is an online puzzle game that challenges players to solve complex pu
 Finally, time management is important in Sleuthscape. Players must be able to manage their time effectively in order to complete puzzles and progress through the game. This requires the ability to prioritize tasks, stay focused, and work efficiently under pressure.
 
 Overall, Sleuthscape is an engaging and challenging online puzzle game that requires a range of soft skills in order to succeed. Players must be able to think critically, communicate effectively, solve problems, collaborate with others, and manage their time effectively in order to solve the puzzles and progress through the game.
+
+## Sample Credentials:
+
+These are the test credentials which can be used to access the game. There one important thing to note is there Unique Code which is only meant to uniquely identify the players.
+
+*Email: sampleemail@gmail.com*
+*Password: samplepassword*
+*Unique Code: samplecode*
 
 ## Problems & Solutions:
 
