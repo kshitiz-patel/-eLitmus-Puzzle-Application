@@ -34,15 +34,15 @@ Sleuthscape is an online puzzle game that challenges players with increasingly d
 
 The first level serves as an introduction, with straightforward and easy-to-solve puzzles, complete with clear and understandable clues that familiarize players with the game mechanics and puzzle types.
 
-#### For Level 1- Q1: the further | Q2: sadie | Q3: samara morgan
+#### Solutions of Level 1- Q1: the further | Q2: sadie | Q3: samara morgan
 
 The second level intensifies the challenge, presenting more complex puzzles that require creative and logical thinking. Clues become less obvious and may require interpretation or deduction, testing players' abilities to solve more intricate problems.
 
-#### For Level 2- Q1: derek jeter | Q2: mohali | Q3: hector mercedes | Q4: birmingham | Q5: steffi graf
+#### Solutions of Level 2- Q1: derek jeter | Q2: mohali | Q3: hector mercedes | Q4: birmingham | Q5: steffi graf
 
 The third and final level is the most demanding, featuring highly complex puzzles that require advanced problem-solving skills. Clues may be ambiguous or difficult to interpret, and the puzzles themselves may require multiple steps or a variety of skills and approaches.
 
-#### For Level 3- Q1: midas | Q2: charlotte tannhaus | Q3: arnold weber
+#### Solutions of Level 3- Q1: midas | Q2: charlotte tannhaus | Q3: arnold weber
 
 Sleuthscape engages players' critical thinking, problem-solving, communication, and collaboration skills throughout all levels. By increasing the difficulty gradually, the game provides an engaging and rewarding challenge while helping players develop essential soft skills that can be applied to various areas of life.
 
